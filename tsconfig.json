@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": true,
+    "noUnusedParameters": false,
+    "typeRoots": ["src/declarations"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "build"
+  }
+}
