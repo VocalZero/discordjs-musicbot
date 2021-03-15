@@ -34,4 +34,4 @@ config.streams.set("atomicradio", { name: "atomicradio", url: "https://listen.at
 config.streams.set("iloveradio", { name: "ILoveRadio", url: "http://stream01.ilovemusic.de/iloveradio1.mp3" });
 config.streams.set("reyfm", { name: "REYFM", url: "https://reyfm-stream04.radiohost.de/reyfm-original_mp3-320" });
 
-client.login("Nzc3OTU0NTg0MDEzOTYzMjY1.X7K8qg.f7kbG0-yhaYy6WBfJiPrEf1DaO4");
+client.login("");
