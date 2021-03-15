@@ -22,7 +22,7 @@
 * You also need your bot's token. Check this <a href="https://anidiots.guide/getting-started/getting-started-long-version">Guide</a> for more informations.
 
 #### Configuration
-Open the `app.ts` in the `src` directory. There you can set your token, change the prefix for the commands and adjust the streams.
+Open the `app.ts` in the `src` directory. There you can set your token, change the prefix for the commands and adjust the streams.<br>
 `⚠️ The data in the app.ts should not be published publicly otherwise third parties can gain access to your discord bot.`
 
 #### Installation:
