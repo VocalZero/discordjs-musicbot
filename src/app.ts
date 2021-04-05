@@ -30,7 +30,7 @@ config.commands.set("volume", new VolumeCommand());
 config.commands.set("list", new ListCommand());
 config.commands.set("help", new HelpCommand());
 
-config.streams.set("atomicradio", { name: "atomicradio", url: "https://listen.atomicradio.eu/one/highquality.mp3" });
+config.streams.set("atomicradio", { name: "atomicradio", url: "https://listen.atomicradio.eu/one/highquality" });
 config.streams.set("iloveradio", { name: "ILoveRadio", url: "http://stream01.ilovemusic.de/iloveradio1.mp3" });
 config.streams.set("reyfm", { name: "REYFM", url: "https://reyfm-stream04.radiohost.de/reyfm-original_mp3-320" });
 
